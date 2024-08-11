@@ -25,3 +25,5 @@ We learned the importance of detailed review and continuous improvement in inter
 
 What's Next for BrewChat
 We plan to enhance brewchat by adding more advanced features, such as AI-driven feedback on interview performance, integration with calendar apps for scheduling interviews, and expanding our transcription capabilities to support multiple languages. We aim to make brewchat an indispensable tool for anyone preparing for interviews.
+
+Devpost : https://devpost.com/software/brewchat
